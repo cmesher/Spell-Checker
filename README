@@ -1,0 +1,17 @@
+Dependancies(using Hashtable)
+1. Dictionary used by spellchecker(dictionary.txt)
+2. Word Database used by spellingsuggest(wordprobabilityDatabase)
+3. Input Text File used by spellchecker(inputtext.txt)
+
+Usage
+The source files along with the dependancies have been sent. Compile the source code($javac spellchecker.java) and then run its class($java spellchecker).
+
+
+Dependancies(using Bloom Filter)
+1. Dictionary used by spellchecker(dictionary.txt)
+2. Word Database used by spellingsuggest(wordprobabilityDatabase)
+3. Input Text File used by spellchecker(inputtext.txt)
+4. Bloom Filter Class used by spellchecker(bloomfilter12.java)
+
+Usage
+The source files along with the dependancies have been sent. Compile the source code($javac spellchecker.java) and then run its class($java spellchecker).
