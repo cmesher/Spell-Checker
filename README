@@ -1,3 +1,5 @@
+Had made this program as a solution for a programming contest called MobMe CodeJam 
+ 
 Dependancies(using Hashtable)
 1. Dictionary used by spellchecker(dictionary.txt)
 2. Word Database used by spellingsuggest(wordprobabilityDatabase)
@@ -14,4 +16,4 @@ Dependancies(using Bloom Filter)
 4. Bloom Filter Class used by spellchecker(bloomfilter12.java)
 
 Usage
-The source files along with the dependancies have been sent. Compile the source code($javac spellchecker.java) and then run its class($java spellchecker).
+The source files along with the dependancies have been sent. Compile the source code($javac spellchecker12.java) and then run its class($java spellchecker12).
